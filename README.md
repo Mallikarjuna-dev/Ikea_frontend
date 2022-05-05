@@ -24,7 +24,7 @@
 
 <h3>Build Process</h3>
 
-<p> You can visit the website we buit here "https://ikea-frontend-beta.vercel.app/" </p>
+<p> You can visit the website we buit here "https://ikea-frontend-pi.vercel.app/" </p>
 <p>Backend Code for the Project "https://github.com/SakethReddy1111/Ikea_Backend"</p>
 
 <ul>
