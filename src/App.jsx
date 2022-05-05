@@ -6,9 +6,7 @@ import { NotFound } from "./components/NotFound/notfound";
 import { Cart } from "./components/Cart/cart";
 import Footer from "./components/footer/Footer";
 import OfferBar from "./components/header/OfferBar";
-
 import PrimarySearchAppBar from "./components/header/PrimarySearchAppBar";
-
 import ProductsPage from "./components/Products/ProductsPage";
 import ProductsBar from "./components/header/ProductsBar";
 import { Login } from "./components/Login/Login";
