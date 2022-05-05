@@ -31,12 +31,4 @@
   <li>Clone or download the repo</li>
   <li><h3>npm run start</h3>to start the packages and run the website</li>
   <li><h3>"http://localhost:3000/"</h3> (without quotes) copy paste this link in your browser</i>
-  
-  
   </ul>
-
-<h3>Contributers</h3>
-
-<a href = "https://github.com/SakethReddy1111"><img src = "https://avatars.githubusercontent.com/u/95850230?v=4" width=100px /></a>
-<a href = "https://github.com/vattsalbhatt"><img src = "https://avatars.githubusercontent.com/u/88322741?v=4"  width=100px /></a>
-<a href = "https://github.com/Dhiraj-Giri"><img src = "https://avatars.githubusercontent.com/u/96107673?v=4"  width=100px /></a>
