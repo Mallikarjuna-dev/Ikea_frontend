@@ -1,0 +1,115 @@
+.main-boxFooter{
+    width: 100%;
+    height: auto;
+    background-color: rgb(245,245,245);
+}
+.content-box{
+    width: 85%;
+    height: 700px;
+    margin: auto;
+    margin-left:10%;
+}
+.footbox1{
+    width: 100%;
+    display: flex;
+    /* border: 1px solid black; */
+}
+.footbox1>div:nth-child(1){
+    width: 30%;
+    text-align: left;
+    margin-top: 4%;
+    /* border: 1px solid black; */
+}
+
+.footbox1>div:nth-child(2){
+    width: 70%;
+    display: flex;
+    margin: 5% 0%;
+    /* border: 1px solid black; */
+    justify-content: space-between;
+}
+.footbox1>div:nth-child(1)>p{
+    font-weight: 380;
+    line-height: 1.571;
+    font-size: .875rem;
+    padding-right: 5px;
+    letter-spacing: 1px;
+}
+.footbox2{
+    width: 100%;
+    height: 8%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+.footbox2>div:nth-child(1){
+    width: 20%;
+    height: 35px;
+    text-align: left;
+    margin-top: 0%;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.footIcons>div{
+    width:35px;
+    text-align: center;
+    height: 100%;
+    border: 1px solid rgb(192, 187, 187);
+    border-radius: 50%;
+    margin-right: 8%;
+}
+.footIcons>div:hover{
+    border: 1px solid rgb(112, 110, 110);
+}
+.footIcons>div>p{
+    font-size:23px;
+    margin-top: 4px;
+    color: rgb(72,72,72);
+}
+.footbox2>div:nth-child(2){
+    width: 18%;
+    height: 40px;
+    border: 1px solid rgb(192, 187, 187);
+    border-radius: 20px;
+    display: flex;
+}
+.footbox2>div:nth-child(2):hover{
+    border: 1px solid rgb(112, 110, 110);
+}
+.footbox2>div:nth-child(2)>p{
+    font-size: 30px;
+    margin-top: 1%;
+    margin-left: 2%;
+    color: rgb(72,72,72);
+}
+.footbox2>div:nth-child(2)>h3{
+    margin-top: 3%;
+    padding-left: 4%;
+    color: rgb(72,72,72);
+
+}
+.footbox3{
+    width: 100%;
+    height: 9%;
+    display: flex;
+    justify-content: space-between;
+}
+.copyRight{
+    font-size: small;
+    font-weight: 300;
+    text-align: left;
+    width: 20%;
+    color: rgb(77, 74, 74);
+    height: auto;
+}
+.policies{
+    display: flex;
+    width: 45%;
+    font-size: .875rem;
+    height: 100%;
+    justify-content: space-between;
+    color: rgb(77, 74, 74);
+}
+.policies>p:hover{
+    text-decoration: underline;
+}

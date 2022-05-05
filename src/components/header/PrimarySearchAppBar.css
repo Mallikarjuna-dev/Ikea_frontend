@@ -1,0 +1,12 @@
+.LogoDiv {
+  width: 250px;
+  height: 40px;
+  /* border: 1px solid black; */
+}
+.LogoDiv > img {
+  margin: 0;
+  width: 100px;
+  height: 36px;
+  padding-left: 80px;
+  padding-top: 2px;
+}

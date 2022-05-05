@@ -1,0 +1,10 @@
+* {
+  font-family: "Noto Sans", sans-serif;
+}
+.App {
+  /* text-align: center; */
+}
+p {
+  font-size: 0.75rem;
+  line-height: 1.3333333333;
+}
